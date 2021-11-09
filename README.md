@@ -1,8 +1,8 @@
 ## Oie! Eu sou a Fabiana Monteiro.
 
-- 🔭 Hoje eu trabalho como Estagiária de Tecnologia.
-- 🌱 Estudando HTML, CSS, JavaScript, Git, Photoshop e Adobe Xd.
-- 😄 Pronomes: Ela/Dela
+- 👩‍💻 Hoje eu trabalho como Estagiária de Tecnologia.
+- 📚 Estudando HTML, CSS, JavaScript, Git, Photoshop e Adobe Xd.
+- 🌻 Pronomes: Ela/Dela
 
 <div align = "center">
   <a href="https://github.com/fabiana-mms">
