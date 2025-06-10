@@ -4,7 +4,7 @@
 - 📚 Estudando HTML, CSS, JavaScript, Git, Photoshop e Adobe Xd.
 - 🌻 Pronomes: Ela/Dela
 
-<div align = "center">
+<div align = "left">
   <a href="https://github.com/fabiana-mms">
   <img height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabiana-mms&layout=compact&langs_count=7&theme=onedark" />
 </div>
