@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 
 - 💻 Desenvolvedora que curte muito sobre tecnologia e aprendizado contínuo.
 - 🎯 Interesses: Desenvolvimento Web Front-end, Acessibilidade web, Experiência do Usuário, Responsividade, Cloud Computing, IA aplicada ao desenvolvimento.
-- 🌱 Atualmente aprendendo: novas stacks e testes e boas práticas de desenvolvimento.
+- 🌱 Atualmente aprendendo: novas stacks, testes e boas práticas de desenvolvimento.
 
 ## 🚀 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiana-mms&layout=compact&theme=dracula)
